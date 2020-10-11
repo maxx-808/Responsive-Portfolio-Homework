@@ -3,6 +3,10 @@
 
 ## Screenshots of webpage
 
+![image](https://user-images.githubusercontent.com/69176601/95669173-2ce19000-0b19-11eb-8472-5db24b70b9b2.png)
+![image](https://user-images.githubusercontent.com/69176601/95669180-39fe7f00-0b19-11eb-815a-5ac47174b328.png)
+![image](https://user-images.githubusercontent.com/69176601/95669195-58fd1100-0b19-11eb-8ec4-653811629449.png)
+
 
 ## URLs of webpage
 
